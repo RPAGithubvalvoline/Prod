@@ -1,0 +1,44 @@
+Valvoline_EMEA_8_1_2020_01 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_9_1_2020_01 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_9_1_2020_02 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_8_1_2020_01 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_9_1_2020_01 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_9_1_2020_02 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_8_1_2021_01 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_9_2_2020_01 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_9_4_2020_02 , 1/10/20 , Archived Successfully 
+Valvoline_EMEA_13_1_2020_01 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_13_1_2020_02 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_22_1_2020_01 , 1/30/20 , Archived Successfully 
+VALVOLINE_EMEA_23_1_2020_01 , 1/30/20 , Archived Successfully 
+VALVOLINE_EMEA_23_1_2020_02 , 1/30/20 , Archived Successfully 
+VALVOLINE_EMEA_24_1_2020_01 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_27_1_2020_01 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_27_1_2020_02 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_27_1_2020_03 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_28_1_2020_01 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_28_1_2020_02 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_30_1_2020 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_30_1_2020_01 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_30_1_2020_02 , 1/30/20 , Archived Successfully 
+Valvoline_EMEA_31_1_2020_01 , 2/10/20 , Archived Successfully 
+Valvoline_EMEA_4_2_2020_01 , 2/10/20 , Archived Successfully 
+Valvoline_EMEA_5_2_2020_01 , 2/10/20 , Archived Successfully 
+Valvoline_EMEA_6_2_2020_01 , 2/10/20 , Archived Successfully 
+Valvoline_EMEA_6_2_2020_02 , 2/10/20 , Archived Successfully 
+Valvoline_EMEA_6_2_2020_03 , 2/10/20 , Archived Successfully 
+Valvoline_EMEA_10_2_2020_01 , 2/17/20 , Archived Successfully 
+Valvoline_EMEA_11_2_2020 , 2/17/20 , Archived Successfully 
+Valvoline_EMEA_11_2_2020_01 , 2/17/20 , Archived Successfully 
+No folder is available to archive , 2/21/20
+No folder is available to archive , 2/21/20
+No folder is available to archive , 2/21/20
+Valvoline_EMEA_18_2_2020 , 2/21/20 , Archived Successfully 
+Valvoline_EMEA_19_2_2020_01 , 2/21/20 , Archived Successfully 
+Valvoline_EMEA_20_2_2020 , 2/21/20 , Archived Successfully 
+Valvoline_EMEA_20_2_2020_01 , 2/21/20 , Archived Successfully 
+Valvoline_EMEA_19_2_2020_01 , 2/26/20 , Archived Successfully 
+Valvoline_EMEA_20_2_2020_01 , 2/26/20 , Archived Successfully 
+Valvoline_EMEA_21_2_2020 , 2/26/20 , Archived Successfully 
+Valvoline_EMEA_25_2_2020_01 , 2/26/20 , Archived Successfully 
+No folder is available to archive , 2/26/20

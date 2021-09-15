@@ -1,0 +1,87 @@
+<ConfigFile>
+<BotDaliyFrequency>100</BotDaliyFrequency>
+<!-- Start: Outlook Profile and Settings -->
+<OutlookSetting>
+<vReadFromFolder>\\EMEAAPINVOICES\Shared\Valvoline\Inbox</vReadFromFolder>
+</OutlookSetting>
+<!-- End: Outlook Profile and Settings -->
+<!-- Start: Email Settings -->
+<EmailSetting>
+<vFromEmailID>BotRunner_1@valvoline.com</vFromEmailID>
+<vToEmailID>BotRunner_1@valvoline.com</vToEmailID>
+</EmailSetting>
+<!-- End: Email Settings -->
+<!-- Start: Folder Path Location -->
+<Folders>
+<vFolderLocation>C:\Users\i550564\Desktop</vFolderLocation>
+<ArchivePath>\\Asingurfps201\vbs rpa\EMEA AP Scanning\EMEA_Archive</ArchivePath>
+<DesktopFolder>C:\Users\i550564\Desktop</DesktopFolder>
+<TempFolder>C:\Users\i550564\Desktop\TempFolder</TempFolder>
+<TempFolderDiscount>C:\Users\i550564\Desktop\TempFolder\Discount</TempFolderDiscount>
+<TempFolderPR>C:\Users\i550564\Desktop\TempFolder\PR</TempFolderPR>
+<TempFolderFreight>C:\Users\i550564\Desktop\TempFolder\Freight</TempFolderFreight>
+<TempFolderException>C:\Users\i550564\Desktop\TempFolder\Exception</TempFolderException>
+<TempFolderRussia>C:\Users\i550564\Desktop\TempFolder\Russia</TempFolderRussia>
+<TempFolderRussiaPO>C:\Users\i550564\Desktop\TempFolder\Russia\PO</TempFolderRussiaPO>
+<TempFolderRussiaNONPO>C:\Users\i550564\Desktop\TempFolder\Russia\Non PO</TempFolderRussiaNONPO>
+<TempFolderRussiaFreight>C:\Users\i550564\Desktop\TempFolder\Russia\Freight</TempFolderRussiaFreight>
+<TempPoland>C:\Users\i550564\Desktop\TempFolder\Poland</TempPoland>
+<TempPolandPO>C:\Users\i550564\Desktop\TempFolder\Poland\PO</TempPolandPO>
+<TempPolandNONPO>C:\Users\i550564\Desktop\TempFolder\Poland\Non PO</TempPolandNONPO>
+<TempPolandPR>C:\Users\i550564\Desktop\TempFolder\Poland\PR</TempPolandPR>
+<TempNetherland>C:\Users\i550564\Desktop\TempFolder\Netherland</TempNetherland>
+<TempNetherlandPO>C:\Users\i550564\Desktop\TempFolder\Netherland\PO</TempNetherlandPO>
+<TempNetherlandNONPO>C:\Users\i550564\Desktop\TempFolder\Netherland\Non PO</TempNetherlandNONPO>
+<TempNetherlandPR>C:\Users\i550564\Desktop\TempFolder\Netherland\PR</TempNetherlandPR>
+<ProcessLogFolder>C:\Users\i550564\Desktop\ProcessFolder\Log Folder</ProcessLogFolder>
+<ProcessReportFolder>C:\Users\i550564\Desktop\ProcessFolder\Report Folder</ProcessReportFolder>
+<TemplateFolderTemp>C:\Users\i550564\Desktop\Template\TempFolder</TemplateFolderTemp>
+<TemplateFolderValvoline>C:\Users\i550564\Desktop\Template\Valvoline</TemplateFolderValvoline>
+<TempFolderSpainPR>C:\Users\i550564\Desktop\TempFolder\PR\Spain</TempFolderSpainPR>
+<TempFolderItalyPR>C:\Users\i550564\Desktop\TempFolder\PR\Italy</TempFolderItalyPR>
+<TempFolderUKPR>C:\Users\i550564\Desktop\TempFolder\PR\United Kingdom</TempFolderUKPR>
+<TempFolderSAPR>C:\Users\i550564\Desktop\TempFolder\PR\South Africa</TempFolderSAPR>
+<TempFolderGermanyPR>C:\Users\i550564\Desktop\TempFolder\PR\Germany</TempFolderGermanyPR>
+<TempFolderExceptionEmail>C:\Users\i550564\Desktop\TempFolder</TempFolderExceptionEmail>
+</Folders>
+<!-- End: Folder Path Location -->
+<!-- Start: Email SMTP Address -->
+<EmailSmtpAddress>
+<vSmtpAddress>http://schemas.microsoft.com/mapi/proptag/0x39FE001E</vSmtpAddress>
+</EmailSmtpAddress>
+<!-- End: Email SMTP Address -->
+<!-- Start: Russia Emaail IDs -->
+<EmailIDRussia>
+<Emailid-Russia>@tmf-group.com</Emailid-Russia>
+<Emailid-Russia>@tmfwer-group.com</Emailid-Russia>
+<Emailid-Russia>@tmfer-group.com</Emailid-Russia>
+</EmailIDRussia>
+<!-- End: Russia Emaail IDs -->
+<!-- Start: Freight Emaail IDs -->
+<EmailIDFreight>
+<Emailid-Freight>@freightzxc.nl</Emailid-Freight>
+<Emailid-Freight>@Proceedlogistics.nl</Emailid-Freight>
+<Emailid-Freight>@bfinternational.nl</Emailid-Freight>
+<Emailid-Freight>@Meijndert.eu</Emailid-Freight>
+<Emailid-Freight>@welz.com.pl</Emailid-Freight>
+<Emailid-Freight>@staalduinen.nl</Emailid-Freight>
+<Emailid-Freight>@Agility.com</Emailid-Freight>
+<Emailid-Freight>@steenbergentransport.com</Emailid-Freight>
+<Emailid-Freight>@nl.mainfreight.com</Emailid-Freight>
+<Emailid-Freight>@bpl.za.com</Emailid-Freight>
+<Emailid-Freight>@gondrand-logistics.com</Emailid-Freight>
+</EmailIDFreight>
+<!-- End: Freight Emaail IDs -->
+<!-- Start: Discount Emaail IDs -->
+<EmailIDDiscount>
+<Emailid-Discount>@chervolate.com</Emailid-Discount>
+<Emailid-Discount>@chevron.com</Emailid-Discount>
+</EmailIDDiscount>
+<!-- End: Discount Emaail IDs -->
+<!-- Start: Exception Emaail IDs -->
+<ExceptionEmail>
+<ExceptionEmailid>@lotterco.co.za</ExceptionEmailid>
+<ExceptionEmailid>@transcend.co.za</ExceptionEmailid>
+</ExceptionEmail>
+<!-- End: Exception Emaail IDs -->
+</ConfigFile>

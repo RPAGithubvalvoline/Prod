@@ -1,0 +1,45 @@
+Numer faktury
+Nr faktury
+Factuurnr
+Numero fattura
+Invoice Number
+Faktura VAT
+VAT Invoice
+Faktura VAT/ VAT Invoice
+Invoice No
+FACTUUR nr
+FACTUURnr
+N. Fattura
+Tax Invoice
+Invoice #
+Faktuurnummer
+Factuurnummer
+Rechn.Nr
+Beleg-Nr
+Document No
+No. Du document
+Beleg-Nr./Document No./No. Du document
+Faktura VAT NR:
+FAKTURA NR
+NUMERO E DATA FATTURA
+FATTURA
+FACTUUR
+BELEGNUMMER
+TAX INVOICE
+Fatura nº
+Faktura
+Fatura
+Rekeningnummer
+Rachune
+Numero Factura
+Refertenummer
+Crediteurnr
+Creditnote
+Debitnote
+Debit Note
+Credit Note
+Original Invoice
+Rechnung
+Factura
+Invoice
+Invoice.

@@ -1,0 +1,44 @@
+<ConfigFile>
+<BotDaliyFrequency>111</BotDaliyFrequency>
+<Folders>
+<DesktopFolder>C:\Users\i550564\Desktop</DesktopFolder>
+<ArchivePath>\\Asingurfps201\vbs rpa\NAM AP Scanning\NAM_Archive</ArchivePath>
+<TempFolder_NAM>C:\Users\i550564\Desktop\TempFolder_NAM</TempFolder_NAM>
+<TemplateFolderTemp>C:\Users\i550564\Desktop\Template_nam\TempFolder_NAM</TemplateFolderTemp>
+<TemplateFolderValvoline>C:\Users\i550564\Desktop\Template_nam\valvoline_NAM</TemplateFolderValvoline>
+<TempFoldercanadaPO>C:\Users\i550564\Desktop\TempFolder_NAM\Canada\PO</TempFoldercanadaPO>
+<TempFoldercanadaNOnPO>C:\Users\i550564\Desktop\TempFolder_NAM\Canada\Non PO</TempFoldercanadaNOnPO>
+<TempFoldercanadaFreight>C:\Users\i550564\Desktop\TempFolder_NAM\Canada\Freight</TempFoldercanadaFreight>
+<TempFolderUSFreight>C:\Users\i550564\Desktop\TempFolder_NAM\US\Freight</TempFolderUSFreight>
+<TempFolderUSDiscount>C:\Users\i550564\Desktop\TempFolder_NAM\US\Discount</TempFolderUSDiscount>
+<TempFolderUSNonPO>C:\Users\i550564\Desktop\TempFolder_NAM\US\Non PO</TempFolderUSNonPO>
+<TempFolderUSPO>C:\Users\i550564\Desktop\TempFolder_NAM\US\PO</TempFolderUSPO>
+<TempFolderMexicoFreight>C:\Users\i550564\Desktop\TempFolder_NAM\Mexico\Freight</TempFolderMexicoFreight>
+<TempFolderMexicoPO>C:\Users\i550564\Desktop\TempFolder_NAM\Mexico\PO</TempFolderMexicoPO>
+<TempFolderMexicoNonPO>C:\Users\i550564\Desktop\TempFolder_NAM\Mexico\Non PO</TempFolderMexicoNonPO>
+<TempFolderException>C:\Users\i550564\Desktop\TempFolder_NAM\Exception</TempFolderException>
+<TempFolderDublinCassFrieght>C:\Users\i550564\Desktop\TempFolder_NAM\Dublin\cass freight</TempFolderDublinCassFrieght>
+<TempFolderDublinPedimento>C:\Users\i550564\Desktop\TempFolder_NAM\Dublin\Pedimento</TempFolderDublinPedimento>
+<ProcessLogFolder>C:\Users\i550564\Desktop\ProcessReportFolder_NAm\Log Folder</ProcessLogFolder>
+<ProcessReportFolder>C:\Users\i550564\Desktop\ProcessReportFolder_NAm\Report Folder</ProcessReportFolder>
+</Folders>
+<EmailAddressOutlook>
+<vSmtpAddress>\\Botrunner_1@valvoline.com</vSmtpAddress>
+</EmailAddressOutlook>
+<EmailSmtpAddress>
+<vSmtpAddress>http://schemas.microsoft.com/mapi/proptag/0x39FE001E</vSmtpAddress>
+</EmailSmtpAddress>
+<EmailIDUsafreight>
+<Emailid-usfreight>Scobie</Emailid-usfreight>
+</EmailIDUsafreight>
+<EmailIDMexicofreight>
+<Emailid-Mexicofreight>Diana</Emailid-Mexicofreight>
+</EmailIDMexicofreight>
+<EmailIDCanadacofreight>
+<Emailid-Canadafreight>Farrow.com</Emailid-Canadafreight>
+</EmailIDCanadacofreight>
+
+
+
+
+</ConfigFile>
