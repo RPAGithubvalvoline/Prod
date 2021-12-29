@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\Valvoline_EOR\\SAP_Process","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Valvoline_EOR\\SAP_Process","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Tasks\\Valvoline_EOR\\Exception_Bot"]}
