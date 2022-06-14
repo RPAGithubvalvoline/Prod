@@ -70,7 +70,7 @@ StrLength1 = Len(strLine)
  
   StrLength3 = StrLength1 + StrLength2
 
-  msgbox ( StrLength3 )
+  'msgbox ( StrLength3 )
     If (StrLength3) = 9  Then
     'If (StrLength3) = 9  OR (StrLength3) = 10 Then
       'msgbox ( " Condition matched ConcatData will be " )
