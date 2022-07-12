@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\My Tasks\\Valvoline\\Enterprise_Scan","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Tasks\\Valvoline\\Enterprise_Scan_&_SAP_Process","Automation Anywhere\\Bots\\My Scripts\\Merge_Csv_To_Xlsx.vbs"]}
+{"path":"Automation Anywhere\\Bots\\My Tasks\\Valvoline\\Enterprise_Scan","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\My Scripts\\Merge_Csv_To_Xlsx.vbs","Automation Anywhere\\Bots\\My Tasks\\Valvoline\\Enterprise_Scan_&_SAP_Process"]}
